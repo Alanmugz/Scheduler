@@ -17,8 +17,8 @@ namespace AM.Scheduler.Data.Repository
 
 		public IMongoDatabase ConnectToDatabase()
 		{
-			var _connectionString = this.c_connectionString.Split('|')[0];
-			var _database = this.c_connectionString.Split('|')[1];
+			var _connectionString = this.c_connectionString.Split('*')[0];
+			var _database = this.c_connectionString.Split('*')[1];
 			var client = new MongoClient(_connectionString);
 			return client.GetDatabase(_database);
 		}
