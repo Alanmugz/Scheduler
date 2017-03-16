@@ -1,5 +1,4 @@
 # bin and obj directories at any depth
-bin/
 
 # Visual studio files and folder
 *.sln.DotSettings.user
