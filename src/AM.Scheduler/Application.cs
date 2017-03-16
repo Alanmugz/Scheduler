@@ -55,7 +55,6 @@ namespace AM.Scheduler
 			this.c_repository = new AM.Scheduler.Data.Repository.Repository(this.c_configuration.DatabaseConnectionString, this.c_logger);
 			var _scheduler = new AM.Scheduler.Infrastructure.QuartzScheduler(this.c_logger, this.c_repository);
 			this.c_scheduler = new AM.Scheduler.Infrastructure.MessagingBus(
-				this.c_logger,
 				this.c_configuration,
 				_scheduler).SchedulerInstance;
 		}

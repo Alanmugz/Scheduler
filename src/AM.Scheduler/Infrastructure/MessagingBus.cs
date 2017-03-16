@@ -10,7 +10,6 @@ namespace AM.Scheduler.Infrastructure
 {
 	public class MessagingBus
 	{
-		private readonly ILog c_logger;
 		private readonly IScheduler c_scheduler;
 		private readonly AM.Scheduler.Infrastructure.IConfigurationSettings c_configuration;
 		private readonly AM.Scheduler.Infrastructure.QuartzScheduler c_quartzScheduler;
@@ -20,15 +19,12 @@ namespace AM.Scheduler.Infrastructure
 
 
 		public MessagingBus(
-			ILog logger,
 			AM.Scheduler.Infrastructure.IConfigurationSettings configuration,
 			AM.Scheduler.Infrastructure.QuartzScheduler quartzScheduler)
 		{
-			Check.RequireArgumentNotNull(nameof(logger), logger);
 			Check.RequireArgumentNotNull(nameof(configuration), configuration);
 			Check.RequireArgumentNotNull(nameof(quartzScheduler), quartzScheduler);
 
-			this.c_logger = logger;
 			this.c_configuration = configuration;
 			this.c_quartzScheduler = quartzScheduler;
 			this.c_scheduler = this.BuildScheduler();
