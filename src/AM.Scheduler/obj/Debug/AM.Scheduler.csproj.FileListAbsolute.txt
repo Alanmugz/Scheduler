@@ -1,0 +1,59 @@
+C:\Users\amulligan\Desktop\Scheduler\src\AM.Scheduler\bin\Debug\AM.Scheduler.dll.config
+C:\Users\amulligan\Desktop\Scheduler\src\AM.Scheduler\bin\Debug\AM.Scheduler.dll
+C:\Users\amulligan\Desktop\Scheduler\src\AM.Scheduler\bin\Debug\AM.Scheduler.pdb
+C:\Users\amulligan\Desktop\Scheduler\src\AM.Scheduler\bin\Debug\Common.Logging.Log4Net1212.dll
+C:\Users\amulligan\Desktop\Scheduler\src\AM.Scheduler\bin\Debug\Common.Logging.Log4Net1212.pdb
+C:\Users\amulligan\Desktop\Scheduler\src\AM.Scheduler\bin\Debug\Common.Logging.Log4Net1212.xml
+C:\Users\amulligan\Desktop\Scheduler\src\AM.Scheduler\obj\Debug\AM.Scheduler.dll
+C:\Users\amulligan\Desktop\Scheduler\src\AM.Scheduler\obj\Debug\AM.Scheduler.pdb
+C:\Users\amulligan\Desktop\Scheduler\src\AM.Scheduler\bin\Debug\log4net.dll
+C:\Users\amulligan\Desktop\Scheduler\src\AM.Scheduler\obj\Debug\AM.Scheduler.csprojResolveAssemblyReference.cache
+C:\Users\amulligan\Desktop\Scheduler\src\AM.Scheduler\bin\Debug\Common.Logging.dll
+C:\Users\amulligan\Desktop\Scheduler\src\AM.Scheduler\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amulligan\Desktop\Scheduler\src\AM.Scheduler\bin\Debug\PMCG.Messaging.Client.dll
+C:\Users\amulligan\Desktop\Scheduler\src\AM.Scheduler\bin\Debug\PMCG.Messaging.dll
+C:\Users\amulligan\Desktop\Scheduler\src\AM.Scheduler\bin\Debug\Quartz.dll
+C:\Users\amulligan\Desktop\Scheduler\src\AM.Scheduler\bin\Debug\RabbitMQ.Client.dll
+C:\Users\amulligan\Desktop\Scheduler\src\AM.Scheduler\bin\Debug\Common.Logging.pdb
+C:\Users\amulligan\Desktop\Scheduler\src\AM.Scheduler\bin\Debug\Common.Logging.xml
+C:\Users\amulligan\Desktop\New folder\src\AM.Scheduler\bin\Debug\AM.Scheduler.dll.config
+C:\Users\amulligan\Desktop\New folder\src\AM.Scheduler\bin\Debug\AM.Scheduler.dll
+C:\Users\amulligan\Desktop\New folder\src\AM.Scheduler\bin\Debug\AM.Scheduler.pdb
+C:\Users\amulligan\Desktop\New folder\src\AM.Scheduler\bin\Debug\Common.Logging.dll
+C:\Users\amulligan\Desktop\New folder\src\AM.Scheduler\bin\Debug\Common.Logging.Log4Net1212.dll
+C:\Users\amulligan\Desktop\New folder\src\AM.Scheduler\bin\Debug\log4net.dll
+C:\Users\amulligan\Desktop\New folder\src\AM.Scheduler\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amulligan\Desktop\New folder\src\AM.Scheduler\bin\Debug\PMCG.Messaging.Client.dll
+C:\Users\amulligan\Desktop\New folder\src\AM.Scheduler\bin\Debug\PMCG.Messaging.dll
+C:\Users\amulligan\Desktop\New folder\src\AM.Scheduler\bin\Debug\Quartz.dll
+C:\Users\amulligan\Desktop\New folder\src\AM.Scheduler\bin\Debug\RabbitMQ.Client.dll
+C:\Users\amulligan\Desktop\New folder\src\AM.Scheduler\bin\Debug\Common.Logging.pdb
+C:\Users\amulligan\Desktop\New folder\src\AM.Scheduler\bin\Debug\Common.Logging.xml
+C:\Users\amulligan\Desktop\New folder\src\AM.Scheduler\bin\Debug\Common.Logging.Log4Net1212.pdb
+C:\Users\amulligan\Desktop\New folder\src\AM.Scheduler\bin\Debug\Common.Logging.Log4Net1212.xml
+C:\Users\amulligan\Desktop\New folder\src\AM.Scheduler\obj\Debug\AM.Scheduler.csprojResolveAssemblyReference.cache
+C:\Users\amulligan\Desktop\New folder\src\AM.Scheduler\obj\Debug\AM.Scheduler.dll
+C:\Users\amulligan\Desktop\New folder\src\AM.Scheduler\obj\Debug\AM.Scheduler.pdb
+F:\Scheduler\src\AM.Scheduler\bin\Debug\AM.Scheduler.dll.config
+F:\Scheduler\src\AM.Scheduler\bin\Debug\AM.Scheduler.dll
+F:\Scheduler\src\AM.Scheduler\bin\Debug\AM.Scheduler.pdb
+F:\Scheduler\src\AM.Scheduler\bin\Debug\Common.Logging.dll
+F:\Scheduler\src\AM.Scheduler\bin\Debug\Common.Logging.Log4Net1212.dll
+F:\Scheduler\src\AM.Scheduler\bin\Debug\log4net.dll
+F:\Scheduler\src\AM.Scheduler\bin\Debug\Newtonsoft.Json.dll
+F:\Scheduler\src\AM.Scheduler\bin\Debug\PMCG.Messaging.Client.dll
+F:\Scheduler\src\AM.Scheduler\bin\Debug\PMCG.Messaging.dll
+F:\Scheduler\src\AM.Scheduler\bin\Debug\Quartz.dll
+F:\Scheduler\src\AM.Scheduler\bin\Debug\RabbitMQ.Client.dll
+F:\Scheduler\src\AM.Scheduler\bin\Debug\Common.Logging.pdb
+F:\Scheduler\src\AM.Scheduler\bin\Debug\Common.Logging.xml
+F:\Scheduler\src\AM.Scheduler\bin\Debug\Common.Logging.Log4Net1212.pdb
+F:\Scheduler\src\AM.Scheduler\bin\Debug\Common.Logging.Log4Net1212.xml
+F:\Scheduler\src\AM.Scheduler\obj\Debug\AM.Scheduler.csprojResolveAssemblyReference.cache
+F:\Scheduler\src\AM.Scheduler\obj\Debug\AM.Scheduler.dll
+F:\Scheduler\src\AM.Scheduler\obj\Debug\AM.Scheduler.pdb
+F:\Scheduler\src\AM.Scheduler\bin\Debug\CCS.Common.dll
+F:\Scheduler\src\AM.Scheduler\bin\Debug\MongoDB.Bson.dll
+F:\Scheduler\src\AM.Scheduler\bin\Debug\MongoDB.Driver.Core.dll
+F:\Scheduler\src\AM.Scheduler\bin\Debug\MongoDB.Driver.dll
+F:\Scheduler\src\AM.Scheduler\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
