@@ -1,0 +1,20 @@
+language: csharp
+csharp:
+  - "4.6.1"
+solution: "./ide/Scheduler_all.sln"
+deploy:
+  provider: s3
+  access_key_id: $AWS_ACCESS_KEY
+  secret_access_key: $AWS_SECRET_KEY
+  bucket: "testbucketalanmugz"
+  skip_cleanup: true
+  local_dir: ide/bin/Release
+  upload-dir: scheduler/1.0.0.$TRAVIS_BUILD_NUMBER
+before_install:
+  - chmod +x ./build/scripts/update_app_config.sh
+  - ./build/scripts/update_app_config.sh
+#install:
+#  - nuget install NUnit.Runners -Version 3.6.0 -OutputDirectory ./build/testrunner
+#script:
+#  - xbuild /p:Configuration=Release Scheduler_all.sln
+#  - mono ./build/testrunner/NUnit.ConsoleRunner/tools/nunit3-console.exe ./TravisTest.UT/bin/Release/TravisTest.UT.dll
