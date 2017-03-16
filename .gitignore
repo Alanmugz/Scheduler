@@ -1,0 +1,14 @@
+# bin and obj directories at any depth
+bin/
+
+# Visual studio files and folder
+*.sln.DotSettings.user
+*.csproj.user
+*.suo
+ide/.vs/
+
+# MS Test runner add-in results directories at any depth
+TestResults/
+
+# bin directories exclusions
+!lib/NUnit/bin/
