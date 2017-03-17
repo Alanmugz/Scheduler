@@ -9,7 +9,7 @@ deploy:
   bucket: "testbucketalanmugz"
   skip_cleanup: true
   local_dir: ide/Scheduler_all/Scheduler/bin/Release
-  upload-dir: scheduler/1.0.0.$TRAVIS_BUILD_NUMBER
+  upload-dir: Scheduler/1.0.0.$TRAVIS_BUILD_NUMBER
 before_install:
   - chmod +x ./build/scripts/update_app_config.sh
   - ./build/scripts/update_app_config.sh

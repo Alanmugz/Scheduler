@@ -6,5 +6,7 @@ echo "db env variable + ${DATABASE_CONNECTION_STRING}"
 DATABASE_CONNECTION_STRING_VAR=${DATABASE_CONNECTION_STRING}
 
 sed -i "s|\[\[\(messaging_bus_connection_string\)\]\]|"${MESSAGING_BUS_CONNECTION_STRING_VAR}"|g; s|\[\[\(database_connection_string\)\]\]|"${DATABASE_CONNECTION_STRING_VAR}"|g" /home/travis/build/Alanmugz/Scheduler/ide/Scheduler_all/Scheduler/App.config
+
+cp -R /home/travis/build/Alanmugz/Scheduler/db/configuration.js. /home/travis/build/Alanmugz/Scheduler/ide/Scheduler_all/Scheduler/bin/Release/db/
 		
 cat /home/travis/build/Alanmugz/Scheduler/ide/Scheduler_all/Scheduler/App.config
